@@ -72,28 +72,20 @@ Right now, I'm deepening my skills in **React**, **Python**, **AI**, **Cloud Com
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark" />
-
-<br/><br/>
-
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br/><br/>
-
-**Database & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-**Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<sub>&nbsp;&nbsp;UI/UX Design</sub>
+<table>
+<tr>
+<th>Languages</th>
+<th>Web Development</th>
+<th>Database & Tools</th>
+<th>Design</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
+</tr>
+</table>
 
 </div>
 
