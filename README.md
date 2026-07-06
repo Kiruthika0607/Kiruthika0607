@@ -20,42 +20,22 @@
 
 ## 🧬 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-```yaml
-name: "Kiruthika R"
-role: "Full Stack Developer & AI Enthusiast"
-education:
-  degree: "B.Tech - Information Technology"
-  institution: "Bannari Amman Institute of Technology"
-interests:
-  - "Artificial Intelligence"
-  - "Full Stack Development"
-  - "UI/UX Design"
-  - "Machine Learning"
-  - "Data Analytics"
-  - "Open Source"
-  - "Problem Solving"
-  - "Hackathons"
-currently_learning:
-  - "React"
-  - "Python"
-  - "Artificial Intelligence"
-  - "Cloud Computing"
-  - "System Design"
-fun_fact: "I turn coffee ☕ and curiosity 🔍 into code 💻"
-```
+### Hi, I'm Kiruthika R 👋
 
-</td>
-<td width="40%" valign="top" align="center">
+**Full Stack Developer & AI Enthusiast**, pursuing **B.Tech in Information Technology** at
+**Bannari Amman Institute of Technology**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=8A7FFF&center=true&vCenter=true&width=300&height=140&lines=%F0%9F%8E%93+B.Tech+-+IT;%F0%9F%8F%AB+Bannari+Amman+Inst.+of+Tech;%F0%9F%A7%A0+AI+%2B+ML+Explorer;%F0%9F%92%BB+Full+Stack+Builder;%F0%9F%8E%A8+UI%2FUX+Designer" alt="about typing" />
+I love exploring **Artificial Intelligence**, **Full Stack Development**, and **UI/UX Design** —
+and I'm always chasing the next challenge through **hackathons** and **open-source** projects.
 
-</td>
-</tr>
-</table>
+Right now, I'm deepening my skills in **React**, **Python**, **AI**, **Cloud Computing**, and
+**System Design**.
+
+> 💜 *I turn coffee and curiosity into code.*
+
+</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
@@ -80,97 +60,42 @@ fun_fact: "I turn coffee ☕ and curiosity 🔍 into code 💻"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,py,cloudflare&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,py,cloudflare&theme=dark" />
 
-![React](https://img.shields.io/badge/React-16213E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-16213E?style=for-the-badge&logo=python&logoColor=3776AB)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-16213E?style=for-the-badge&logo=OpenAI&logoColor=B49CFF)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-16213E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![System Design](https://img.shields.io/badge/System_Design-16213E?style=for-the-badge&logo=Architecture&logoColor=B49CFF)
+<sub>React · Python · Artificial Intelligence · Cloud Computing · System Design</sub>
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-## ⚡ Skills & Proficiency Dashboard
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,py,c,cpp,react,git,github,figma,vscode&theme=dark&perline=7" />
-</div>
-
-<br/>
-
-<table width="100%">
-<tr><td>
-
-**☕ Java**
-![](https://progress-bar.dev/80/?title=&width=650&color=7c3aed)
-
-**🗄️ SQL**
-![](https://progress-bar.dev/80/?title=&width=650&color=7c3aed)
-
-**🎨 UI/UX Design**
-![](https://progress-bar.dev/70/?title=&width=650&color=8b5cf6)
-
-**🌐 HTML**
-![](https://progress-bar.dev/90/?title=&width=650&color=a855f7)
-
-**🎯 CSS**
-![](https://progress-bar.dev/85/?title=&width=650&color=9333ea)
-
-**⚙️ JavaScript**
-![](https://progress-bar.dev/75/?title=&width=650&color=8b5cf6)
-
-**🐍 Python**
-![](https://progress-bar.dev/50/?title=&width=650&color=6366f1)
-
-**🔧 C**
-![](https://progress-bar.dev/50/?title=&width=650&color=6366f1)
-
-**➕ C++**
-![](https://progress-bar.dev/40/?title=&width=650&color=4f46e5)
-
-**⚛️ React**
-![](https://progress-bar.dev/40/?title=&width=650&color=4f46e5)
-
-**🐬 MySQL**
-![](https://progress-bar.dev/80/?title=&width=650&color=7c3aed)
-
-**🌱 Git**
-![](https://progress-bar.dev/70/?title=&width=650&color=8b5cf6)
-
-**🐙 GitHub**
-![](https://progress-bar.dev/80/?title=&width=650&color=7c3aed)
-
-**🎭 Figma**
-![](https://progress-bar.dev/70/?title=&width=650&color=8b5cf6)
-
-**💻 VS Code**
-![](https://progress-bar.dev/90/?title=&width=650&color=a855f7)
-
-</td></tr>
-</table>
-
-<details>
-<summary><b>📊 View as Badge Cards</b></summary>
-<br/>
+## ⚡ Skills & Proficiency
 
 <div align="center">
 
-| Skill | Level | Skill | Level |
-|:---|:---:|:---|:---:|
-| ☕ Java | `80%` | 🐬 MySQL | `80%` |
-| 🗄️ SQL | `80%` | 🌱 Git | `70%` |
-| 🎨 UI/UX Design | `70%` | 🐙 GitHub | `80%` |
-| 🌐 HTML | `90%` | 🎭 Figma | `70%` |
-| 🎯 CSS | `85%` | 💻 VS Code | `90%` |
-| ⚙️ JavaScript | `75%` | 🔧 C | `50%` |
-| 🐍 Python | `50%` | ➕ C++ | `40%` |
-| ⚛️ React | `40%` | | |
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp&theme=dark" />
+
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br/><br/>
+
+**Database & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<sub>&nbsp;&nbsp;UI/UX Design</sub>
 
 </div>
-
-</details>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
